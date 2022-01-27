@@ -1,0 +1,5 @@
+dfhd = (1, 2, 3)
+print(dfhd)
+gjkhh = (11,2,11,4,5,11,7,11,9,10,11)
+print(gjkhh.count(11))
+print(gjkhh.index(2))
