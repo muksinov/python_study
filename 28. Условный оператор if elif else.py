@@ -33,9 +33,9 @@
 
 
 
-  #user_input = input ('Input something ')
-  #if user_input == 'Hello':
-   #print('Hello! Nice to meet you!')
+  user_input = input ('Input something ')
+  if user_input == 'Hello':
+   print('Hello! Nice to meet you!')
 
    if [1, 3]:
        print('Something')
