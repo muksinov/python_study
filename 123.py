@@ -26,12 +26,19 @@ from random import randint
 #for i in range (0, 10001, 1):
     #print(i)
 
-for i in range (1, 11):
-    for j in range(1, 11):
-        print(f'{i*j:2}', end=' ')
-    print()
+#for j in range(1, 11):
+       # print(f'{i*j:2}', end=' ')
+  #  print()
 
 #Таблица Пефагора
+
+
+
+
+for i in range(1, 101):
+    for j in range(1, 101):
+        print ('{} x {} = {}'.format(i, j, i*j), end=' ')
+    print()
 
 
 
