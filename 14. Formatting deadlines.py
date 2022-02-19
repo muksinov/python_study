@@ -38,4 +38,3 @@ print(name_and_age)
 print("My name is %s. %s %d years old" % (name,"I'm", age))
 
 
-
